@@ -30,8 +30,9 @@ The graphical interface includes the following components:
 3. **Display Area:** A section at the bottom of the window for showing hospital data or status messages.
 
 ## Database Schema
+![Screenshot 2024-09-19 215008](https://github.com/user-attachments/assets/d03ab994-4f04-4d3a-886b-9ce81c04a99e)
 
-Table:
+Table: </br>
 CREATE TABLE [dbo].[HospitalTable] ( </br>
     [Hospital_ID] INT           NOT NULL,</br>
     [Name]        VARCHAR (50)  NOT NULL,</br>
