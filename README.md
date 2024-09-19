@@ -29,6 +29,17 @@ The graphical interface includes the following components:
    - **Delete:** Deletes the selected hospital record.
 3. **Display Area:** A section at the bottom of the window for showing hospital data or status messages.
 
+## Database Schema
+
+Table:
+CREATE TABLE [dbo].[HospitalTable] ( </br>
+    [Hospital_ID] INT           NOT NULL,</br>
+    [Name]        VARCHAR (50)  NOT NULL,</br>
+    [Address]     VARCHAR (100) NOT NULL,</br>
+    [Email]       VARCHAR (50)  NOT NULL,</br>
+    PRIMARY KEY CLUSTERED ([Hospital_ID] ASC)</br>
+);
+
 ## Requirements
 
 - **Programming Language:**
