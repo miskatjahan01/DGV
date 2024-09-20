@@ -14,7 +14,8 @@ The system features an intuitive interface that allows users to input hospital d
 - **Display Records:** A text area at the bottom to display or list the hospital records.
 
 ## GUI Layout
-![Screenshot 2024-09-19 210457](https://github.com/user-attachments/assets/4badb137-3498-414b-9d8f-830c014a47f7)
+![Screenshot 2024-09-20 012626](https://github.com/user-attachments/assets/854ef10a-3a04-432b-ba43-1d4e847fef56)
+
 
 The graphical interface includes the following components:
 
